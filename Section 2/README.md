@@ -1,3 +1,3 @@
 # Optional: JavaScript - A Quick Refresher
 
--Skipped this one
+- Skipped this one

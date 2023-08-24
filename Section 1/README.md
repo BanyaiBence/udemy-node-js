@@ -1,7 +1,7 @@
 # Introduction
 
--What is Node.js?
--Installation
--Usage
--Course outline
--REPL
+- What is Node.js?
+- Installation
+- Usage
+- Course outline
+- REPL
